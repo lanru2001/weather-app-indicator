@@ -12,3 +12,4 @@
 - Node.js
 - Bootstrap
 
+Source: https://medium.com/devops-and-sre-learning/deploying-dockerised-react-weather-application-on-aws-ecs-using-the-terraform-iac-tool-962e38219403
